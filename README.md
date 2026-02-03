@@ -9,9 +9,10 @@ I'm currently studying Computer Science, aiming to become a Mobile App Developer
 ## 📚 Stacks
 
 ### Environment
-<img height=50% alt="Environment" src="https://github.com/user-attachments/assets/735b799b-9796-4a94-8615-e7ec280e43b9">
+<img height=128 alt="Environment" src="https://github.com/user-attachments/assets/735b799b-9796-4a94-8615-e7ec280e43b9">
+
 ### Development
-<img height=50% alt="Environment" src="https://github.com/user-attachments/assets/6d6e5417-69a0-4507-8896-cd74b2860f47">
+<img height=128 alt="Development" src="https://github.com/user-attachments/assets/6d6e5417-69a0-4507-8896-cd74b2860f47">
 
 
 ## 💫 Stats
