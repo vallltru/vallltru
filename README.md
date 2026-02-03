@@ -1,17 +1,16 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**Alswns632/Alswns632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science, aiming to become a Mobile App Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vallltru&layout=compact)](https://github.com/vallltru/github-readme-stats)
+## 👋 About Me
+- **Majoring** in **Computer Science** at University of Seoul
+
+## 📚 Stacks
+
+### Environment
+
+### Development
+
+
+## 💫 Stats
