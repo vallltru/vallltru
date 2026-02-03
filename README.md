@@ -1,13 +1,11 @@
-# Hi there!
+# 👨‍💻 Hi there, I'm Minjun!
 
 I'm currently studying **Computer Science**, aiming to become a **Mobile App Developer**.
-
-
+<br>
 
 ## 👋 About Me
 - **Majoring** in **Computer Science** at University of Seoul
-
-
+<br>
 
 ## 📚 Stacks
 
@@ -16,7 +14,7 @@ I'm currently studying **Computer Science**, aiming to become a **Mobile App Dev
 
 ### Development
 <img height=40 alt="Development" src="https://github.com/user-attachments/assets/6d6e5417-69a0-4507-8896-cd74b2860f47">
-
-
+<br>
 
 ## 💫 Stats
+<br>
