@@ -18,10 +18,12 @@
 <br><br><br>
 
 ## 💫 Stats
-<br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vallltru/vallltru/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vallltru/vallltru/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/bugprone/bugprone/output/github-snake.svg" />
 </picture>
+
+
+<br><br><br>
