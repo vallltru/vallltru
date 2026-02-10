@@ -1,6 +1,7 @@
-<div align=center>
-	<h1>👨‍💻<br>Hi there, I'm Minjun</h1>
-  I'm currently studying <b>Computer Science</b>, aiming to become a <b>Mobile App Developer</b>.
+<div align=leading>
+	<h1>👨‍💻<br>기다림의 기다림을 기다리는 개발자,<br>김민준입니다.</h1>
+  	Hi there, I'm Minjun.<br>
+	I'm currently studying <b>Computer Science</b>, aiming to become a <b>Mobile App Developer</b>.
   <br><br><br>
 </div>
 
@@ -17,7 +18,7 @@
 <img height=40 alt="Environment" src="https://github.com/user-attachments/assets/735b799b-9796-4a94-8615-e7ec280e43b9">
 <br><br><br>
 
-## 💫 Stats
+<!-- ## 💫 Stats -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vallltru/vallltru/output/github-snake-dark.svg" />
