@@ -5,11 +5,11 @@
   <br><br><br>
 </div>
 
-## 👋 About Me
+## About Me
 - **Majoring** in **Computer Science** at University of Seoul
 <br><br><br>
 
-## 📚 Stacks
+## Stacks
 
 ### Environment
 <img height=40 alt="Development" src="https://github.com/user-attachments/assets/6d6e5417-69a0-4507-8896-cd74b2860f47">
