@@ -1,6 +1,5 @@
 <div align=leading>
-	<h1>👨‍💻<br>기다림의 기다림을 기다리는 개발자,<br>김민준입니다.</h1>
-  	Hi there, I'm Minjun.<br>
+	<h1>👨‍💻<br>Hi there,<br>I'm Minjun.</h1>
 	I'm currently studying <b>Computer Science</b>, aiming to become a <b>Mobile App Developer</b>.
   <br><br><br>
 </div>
