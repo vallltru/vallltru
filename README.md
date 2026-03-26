@@ -5,7 +5,12 @@
 </div>
 
 ## About Me
-- **Majoring** in **Computer Science** at University of Seoul
+- **Undergraduate** of Department of **Computer Science**, University of Seoul 
+<br><br><br>
+
+## Contacts
+- vallltru@gmail.com
+- yuhvunn@uos.ac.kr
 <br><br><br>
 
 ## Stacks
