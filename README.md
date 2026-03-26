@@ -1,5 +1,5 @@
 <div align=leading>
-	<h1>👨‍💻<br>Hi there,<br>I'm Minjun.</h1>
+	<h1>👨‍💻<br>Hi there, I'm Minjun.</h1>
 	I'm currently studying <b>Computer Science</b>, aiming to become a <b>Mobile App Developer</b>.
   <br><br><br>
 </div>
