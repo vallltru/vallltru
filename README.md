@@ -16,10 +16,10 @@
 ## Stacks
 
 ### Environment
-<img height=48 alt="Environment" src="https://github.com/user-attachments/assets/e7b68850-7008-46ac-8031-370dca5ceb7b">
+<img height=48 alt="Environment" src="https://github.com/user-attachments/assets/465f3edc-9d6d-436b-a1c5-c878c2b75203">
 
 ### Development
-<img height=48 alt="Development" src="https://github.com/user-attachments/assets/44fa4ccb-e10a-468e-b124-f752013a7aff">
+<img height=48 alt="Development" src="https://github.com/user-attachments/assets/2962f261-ac93-49e5-9f74-a1b02ecd88f0">
 <br><br><br>
 
 <!-- ## 💫 Stats -->
