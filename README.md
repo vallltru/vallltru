@@ -10,7 +10,7 @@
 
 ## Contacts
 - vallltru@gmail.com
-- yuhvunn@uos.ac.kr
+- vallltru@uoslife.team
 <br><br><br>
 
 ## Stacks
